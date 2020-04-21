@@ -19,14 +19,12 @@ python3 main.py
 
 ![ебаныйтригер](https://sun9-20.userapi.com/c206628/v206628626/f2196/Tvdbt2LRcvA.jpg)
 
-Копируем ссылку и вставляем [сюда](https://www.cafewebmaster.com/online_tools/rawurldecode)
-
-![сайт228](https://sun9-4.userapi.com/c206520/v206520220/f745d/Fjdt4KN1CnU.jpg)
-
-Копируем полученную ссылку и вставляем ее в программу.
+Копируем ссылку и вставляем ее в программу.
 
 # Над говнокодом работали:
 
 [TheSawIsTheLaw](https://github.com/TheSawIsTheLaw) - говнокодер алгоритмов
 
 [mRrvz](https://github.com/mRrvz) - делаем из говна продукт с 2000 года
+
+![flx](https://sun9-55.userapi.com/c857216/v857216512/16db99/sm6PVQSVV68.jpg)
